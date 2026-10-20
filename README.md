@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/asish358/leetcodechallange/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/asish358/leetcodechallange/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/asish358/leetcodechallange/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/asish358/leetcodechallange/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/asish358/leetcodechallange/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/asish358/leetcodechallange/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/asish358/leetcodechallange/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/asish358/leetcodechallange/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/asish358/leetcodechallange/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asish358/leetcodechallange/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/asish358/leetcodechallange/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/asish358/leetcodechallange/tree/master/3886-sum-of-sortable-integers) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/asish358/leetcodechallange/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/asish358/leetcodechallange/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
